@@ -66,6 +66,7 @@ a {
   background-color: var(--modal-bg-color);
   min-height: 80px;
 }
+/* /chang */
 .respones-area .respones.ai::after {
   content: "AI Response";
   display: flex;
